@@ -1,0 +1,23 @@
+.cd__main{
+   display: block !important;
+}
+
+
+.textbox {
+  height: 700px;
+}
+
+.progress {
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  width: 0;
+  color: rgb(255, 255, 255);
+  background-color: #ff9081  !important;
+}
+
+.progress-bar .on{
+  width: 0;
+  opacity: 1;
+}
